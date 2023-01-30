@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DawidKrupski/goit-react-hw-01-components/static/css/main.5a62ff20.css",
+    "main.js": "/DawidKrupski/goit-react-hw-01-components/static/js/main.7b655372.js",
+    "index.html": "/DawidKrupski/goit-react-hw-01-components/index.html",
+    "main.5a62ff20.css.map": "/DawidKrupski/goit-react-hw-01-components/static/css/main.5a62ff20.css.map",
+    "main.7b655372.js.map": "/DawidKrupski/goit-react-hw-01-components/static/js/main.7b655372.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a62ff20.css",
+    "static/js/main.7b655372.js"
+  ]
+}
