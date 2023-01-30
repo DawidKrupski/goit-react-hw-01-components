@@ -1,16 +1,16 @@
+import { Statistics } from './Statistics/Statistics';
+
 export const App = () => {
+  const stats = {
+    docx: 4,
+    mp3: 14,
+    pdf: 41,
+    mp4: 12,
+  };
+
   return (
-    <div
-      style={{
-        height: '100vh',
-        display: 'flex',
-        justifyContent: 'center',
-        alignItems: 'center',
-        fontSize: 40,
-        color: '#010101'
-      }}
-    >
-      React homework template
+    <div>
+      <Statistics stats={stats} title={'Upload stats'} />
     </div>
   );
 };
