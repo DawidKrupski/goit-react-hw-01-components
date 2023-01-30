@@ -1,0 +1,86 @@
+.profile {
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+  margin-top: 30px;
+  width: fit-content;
+  border-radius: 5px;
+  overflow: hidden;
+  border: 1px solid rgb(153, 153, 153);
+}
+
+.description {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.avatar {
+  display: flex;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  max-width: 70px;
+  border-radius: 45px;
+}
+
+.name {
+  display: flex;
+  justify-content: center;
+  margin: 0px;
+  font-size: 14px;
+}
+
+.tag {
+  display: flex;
+  justify-content: center;
+  margin: 0px;
+  margin-top: 5px;
+  font-size: 10px;
+  color: rgb(153, 153, 153);
+}
+
+.location {
+  display: flex;
+  justify-content: center;
+  margin-top: 5px;
+  margin-bottom: 15px;
+  font-size: 12px;
+  color: rgb(153, 153, 153);
+}
+
+.stats {
+  display: flex;
+  list-style-type: none;
+  align-self: center;
+  padding: 0px;
+  width: fit-content;
+  margin: 0px;
+  background-color: rgba(214, 214, 214, 0.76);
+  box-sizing: border-box;
+  border-top: 1px solid rgb(153, 153, 153);
+}
+.stats > li {
+  border-left: 1px solid rgb(153, 153, 153);
+  padding: 5px;
+  padding-top: 10px;
+  width: 40px;
+  height: 30px;
+}
+.stats > li:nth-child(1) {
+  border-left: none;
+}
+
+.label {
+  display: flex;
+  color: rgb(153, 153, 153);
+  font-size: 8px;
+  justify-content: center;
+}
+
+.quantity {
+  font-size: 10px;
+  font-weight: 500;
+  display: flex;
+  justify-content: center;
+}

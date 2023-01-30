@@ -1,0 +1,14 @@
+{
+  "profileStats": {
+    "followers": 1000,
+    "views": 2000,
+    "likes": 3000
+  },
+  "avatar": {
+    "src": "https://cdn-icons-png.flaticon.com/512/1077/1077012.png",
+    "alt": "User avatar"
+  },
+  "username": "Petra Marica",
+  "tag": "@pmarica",
+  "location": "Salvador, Brasil"
+}
