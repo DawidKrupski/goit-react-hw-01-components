@@ -3,14 +3,14 @@ import css from './Friends.module.css';
 import { FriendListItem } from './FriendListItem/FriendListItem';
 
 export const FriendList = ({ friends }) => {
-  const list = friends.map(f => {
+  const list = friends.map(friend => {
     return (
       <FriendListItem
-        key={f.id}
-        id={f.id}
-        avatar={f.avatar}
-        name={f.name}
-        isOnline={f.isOnline}
+        key={friend.id}
+        id={friend.id}
+        avatar={friend.avatar}
+        name={friend.name}
+        isOnline={friend.isOnline}
       />
     );
   });

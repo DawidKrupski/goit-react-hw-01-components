@@ -1,0 +1,15 @@
+.item {
+  display: flex;
+}
+
+.status {
+  display: flex;
+}
+
+.avatar {
+  display: flex;
+}
+
+.name {
+  display: flex;
+}
