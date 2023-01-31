@@ -1,0 +1,29 @@
+[
+  {
+    "avatar": {
+      "src": "https://cdn-icons-png.flaticon.com/512/1077/1077012.png",
+      "alt": "User avatar"
+    },
+    "name": "Mango",
+    "isOnline": "true",
+    "id": 1
+  },
+  {
+    "avatar": {
+      "src": "https://cdn-icons-png.flaticon.com/512/1077/1077012.png",
+      "alt": "User avatar"
+    },
+    "name": "Avocado",
+    "isOnline": "true",
+    "id": 2
+  },
+  {
+    "avatar": {
+      "src": "https://cdn-icons-png.flaticon.com/512/1077/1077012.png",
+      "alt": "User avatar"
+    },
+    "name": "Coconut",
+    "isOnline": "false",
+    "id": 3
+  }
+]
